@@ -117,12 +117,11 @@ Use advanced models for improved prediction
 
 **📂 Project Structure**
 
-   Bank-Marketing-ML/
-  │── data/
-  │── notebooks/
-  │── src/
-  │── README.md
-  
+Bank-Marketing-ML/
+│── data/
+│── notebooks/
+│── src/
+│── README.md
   
 **🤝 Conclusion**
 
