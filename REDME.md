@@ -117,12 +117,13 @@ Use advanced models for improved prediction
 
 **📂 Project Structure**
 
-Bank-Marketing-ML/
-│── data/
-│── notebooks/
-│── src/
-│── README.md
-🤝 Conclusion
-
+  Bank-Marketing-ML/
+  │── data/
+  │── notebooks/
+  │── src/
+  │── README.md
+  
+  
+**🤝 Conclusion**
 
 This project demonstrates how machine learning can be used to improve decision-making in marketing campaigns. By predicting customer behavior, banks can optimize their strategies and increase conversion rates.
